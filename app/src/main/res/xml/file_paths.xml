@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="files_root"
+        path="Android/data/com.android.ayplatform" />
+
+    <external-path
+        name="external_storage_root"
+        path="." />
+    <external-path
+        name="rc_external_path"
+        path="." />
+
+    <external-path
+        name="external_files"
+        path="." />// .表示根目录
+    <external-files-path
+        name="external_files_path"
+        path="." />
+</paths>
+

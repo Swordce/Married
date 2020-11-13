@@ -4,7 +4,7 @@ evaluate(new File(
   settingsDir,
   '../flutter_married/.android/include_flutter.groovy'
 ))
-rootProject.name = "Married"
+rootProject.name = "真爱良缘"
 
 include ':flutter_married'
 project(':flutter_married').projectDir = new File('../flutter_married')
